@@ -6,6 +6,14 @@
 
 ------------
 
+El flujo será el siguiente:
+
+1. Crear una nueva rama y hacer push
+2. Seguir el orden del listado de estrategias
+
+
+------------
+
 ### 🚀 Proyecto Elegido
 
 >Nombre del proyecto
@@ -21,11 +29,15 @@
 >vamos a enlistarlas una a una en este readme para no tener varios archivos y que todo quede en la entrada del repo.
 
 El formato será el siguiente:
-1. nombre de la estrategia
+1. (Jorge) nombre de la estrategia
 	explicación
-2. nombre de la estrategia
+2. (Alejo) nombre de la estrategia
 	explicación
-3. nombre de la estrategia
+3. (Marco) nombre de la estrategia
+	explicación
+4. (Mario) nombre de la estrategia
+	explicación
+3. (Beto) nombre de la estrategia
 	explicación
 
 ------------
