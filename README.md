@@ -8,8 +8,9 @@
 
 El flujo será el siguiente:
 
-1. Crear una nueva rama y hacer push
-2. Seguir el orden del listado de estrategias
+1. hacer fork o clonarlo
+2. Crear una nueva rama nueva desde main y hacer push
+3. Seguir el orden del listado de estrategias
 
 
 ------------
