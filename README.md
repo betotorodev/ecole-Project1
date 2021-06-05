@@ -46,8 +46,46 @@ El formato será el siguiente:
    - 11:star: : Qué no existan
 2. (Alejo) nombre de la estrategia
    explicación
-3. (Marco) nombre de la estrategia
-   explicación
+3. Marco Elizalde 
+   :star:
+   
+   Solo esta disponible una caseta de cobro, el usuario tiene que esperar demasiado tiempo.
+   
+   :star::star:
+   
+   Como usuario cuando pago me tratan de una forma grosera.
+   
+   :star::star::star:
+   
+   Como usuario cuando intento pagar no tiene cambio en la caseta.
+   
+   :star::star::star::star:
+   
+   Como usuario no puedo pagar con tarjeta de credito o por medio de un tag de NFC.
+   
+   :star::star::star::star::star:
+   
+   Como usuario puedo pasar con tiempos adecuados y puedo pagar sin contratiempos.
+   
+   :star::star::star::star::star::star:
+   
+   Como usuario cuando pago casetas, acceso a descuentos.
+   
+   :star::star::star::star::star::star::star:
+   
+   Como usuario no tengo que detenerne en ningún momento, el cargo se realiza de manera automatica en base a las placas.
+   
+   :star::star::star::star::star::star::star::star:
+   
+   Puedo tener acceso a reportes en base los cruces de cada caseta.
+   
+   :star::star::star::star::star::star::star::star::star:
+   
+   Como usuario puedo tener acceso a internet en todo momento.
+   
+   :star::star::star::star::star::star::star::star::star::star:
+   
+   Como usuario una vez pagada la caseta, pueda acceder a servicios de asistencia como revisión de putos de seguridad del vehiculo.
 4. (Mario) nombre de la estrategia
    explicación
 5. (Beto) nombre de la estrategia
