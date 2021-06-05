@@ -21,7 +21,7 @@ Por otro lado, algunos peajes sirven como punto de información para los viajero
 ### 🔥 Estrategias
 ## Análisis de 11 estrellas
 
-1. análisis de 11 estrellas:
+1. Análisis de 11 estrellas:
 
 >	- 1:star: : Fila de acceso de 20 minutos
 >	- 2:star: : La persona de ventanilla no saluda, me habla agresivamente y no me desas buen viaje
@@ -66,17 +66,17 @@ Por otro lado, algunos peajes sirven como punto de información para los viajero
 ---
 2. Estrategias:
 	1. 🤖 Mi amigo el peaje:
-		En el peaje nos vamos a encontrar con una inteligencia artificial que se conectará con nuestro carro y nos dará un diagnóstico sobre el estado del vehículo. Esto será posible si antes hemos pagado el peaje, el cual se podrá pagar mediante una app y recibe tarjetas de todos los bancos además de otros medios de pago. El peaje ya no es una zona de cobro. Es un zona de esperiencia para un mejor viaje. Cada peaje será un centro de experiencia cultural y turística para disfrutar aún más nuestro viaje.
+		En el peaje nos vamos a encontrar con una inteligencia artificial que se conectará con nuestro carro y nos dará un diagnóstico sobre el estado del vehículo. Esto será posible si antes hemos pagado el peaje, el cual se podrá pagar mediante una app y recibe tarjetas de todos los bancos además de otros medios de pago. El peaje ya no es una zona de cobro. Es un zona de experiencia para un mejor viaje. Cada peaje será un centro de experiencia cultural y turística para disfrutar aún más nuestro viaje.
 
 		¿Por qué sería efectiva?
 
 		Porque es innovador y creamos un nuevo centro de acopio para el turismo, lo que llevará mucha más gente a la carretera, lo que a su vez significa más tráfico para el turismo y más dinero para las vías.
 	2. 👼🏻 El peaje omnipresente:
-		Ya no vemos el peaje físico en cada salida de los municipios y ciudades. Ahora el peaje viaja con nostros todo el tiempo dentro del carro. Este peaje tendrá la capacidad de cobrar la plata, de forma automáticamente cuando pasemos por un punto específico de la carretera, además el peaje tendrá la capidad de decirnos si podemos adelantar o no en la carreta ya que por medio de una vista satelital podrá identificar posibles peligros. Por otra parte, el pejae nos va avisando cuando estamos bajos o cortos de gasolina, de aceite, de agua, de aire en las llantas o lo que sea que pueda comprometer nuestra integrar en las vías. Y por si fuera poco, será un guía turístico que nos irá recomendando lugares para comer, para visitar, para qudarse y podremos reservar puestos, camas, sillas etc, todo desde el carro. 
+		Ya no vemos el peaje físico en cada salida de los municipios y ciudades. Ahora el peaje viaja con nostros todo el tiempo dentro del carro. Este peaje tendrá la capacidad de cobrar la plata, de forma automáticamente cuando pasemos por un punto específico de la carretera, además el peaje tendrá la capacidad de decirnos si podemos adelantar o no en la carreta ya que por medio de una vista satelital podrá identificar posibles peligros. Por otra parte, el peaje nos va avisando cuando estamos bajos o cortos de gasolina, de aceite, de agua, de aire en las llantas o lo que sea que pueda comprometer nuestra integridad en las vías. Y por si fuera poco, será un guía turístico que nos irá recomendando lugares para comer, para visitar, para qudarse y podremos reservar puestos, camas, sillas etc, todo desde el carro. 
 
 		¿Por qué sería efectiva?
 
-		Porque además de reducir el tiempo de entrada y salida de las ciudades y municipios. Reduciría la tasa de muertes y accidentes en la carretera, icentivcaría al turismo local, reduciría el contrabando o la corrupción y además nadie jamás vovlería a viajar solo.
+		Porque además de reducir el tiempo de entrada y salida de las ciudades y municipios. Reduciría la tasa de muertes y accidentes en la carretera, incentivaría al turismo local, reduciría el contrabando o la corrupción y además nadie jamás volvería a viajar solo.
 
 
 ### Integrantes del equipo
